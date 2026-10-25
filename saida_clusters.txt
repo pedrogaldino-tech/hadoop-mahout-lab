@@ -1,0 +1,130 @@
+VL-0 {n=709 c=[0] r=[]}
+	Top Terms:
+		does:0.1085
+		know:0.0549
+		thanks:0.0402
+		anybody:0.0256
+		server:0.0255
+		help:0.0254
+		hi:0.0202
+		work:0.0193
+		motif:0.0193
+		like:0.0186
+
+VL-1 {n=367 c=[1] r=[]}
+	Top Terms:
+		com:0.1469
+		window:0.0767
+		list:0.0362
+		netcom:0.0198
+		edu:0.0183
+		email:0.0182
+		mail:0.0167
+		use:0.0163
+		thanks:0.0159
+		mailing:0.0151
+
+VL-2 {n=1499 c=[2] r=[]}
+	Top Terms:
+		new:0.0263
+		00:0.0241
+		sale:0.0227
+		space:0.0212
+		10:0.0193
+		use:0.0181
+		offer:0.0168
+		shipping:0.0162
+		price:0.0154
+		email:0.0154
+
+VL-3 {n=530 c=[3] r=[]}
+	Top Terms:
+		car:0.1153
+		thanks:0.0900
+		advance:0.0299
+		cars:0.0263
+		bike:0.0253
+		like:0.0231
+		good:0.0229
+		mail:0.0228
+		know:0.0207
+		engine:0.0180
+
+VL-4 {n=3757 c=[4] r=[]}
+	Top Terms:
+		like:0.0126
+		edu:0.0119
+		team:0.0117
+		game:0.0114
+		year:0.0104
+		just:0.0101
+		did:0.0100
+		time:0.0098
+		good:0.0096
+		got:0.0080
+
+VL-5 {n=519 c=[5] r=[]}
+	Top Terms:
+		drive:0.1196
+		card:0.0980
+		scsi:0.0644
+		bus:0.0408
+		controller:0.0399
+		drives:0.0391
+		disk:0.0380
+		ide:0.0363
+		video:0.0356
+		hard:0.0339
+
+VL-6 {n=1843 c=[6] r=[]}
+	Top Terms:
+		don:0.0578
+		people:0.0457
+		think:0.0449
+		just:0.0440
+		like:0.0305
+		know:0.0302
+		good:0.0200
+		time:0.0190
+		make:0.0190
+		right:0.0186
+
+VL-7 {n=301 c=[7] r=[]}
+	Top Terms:
+		key:0.1529
+		clipper:0.0884
+		chip:0.0872
+		encryption:0.0869
+		keys:0.0681
+		government:0.0453
+		escrow:0.0443
+		nsa:0.0384
+		algorithm:0.0354
+		secure:0.0348
+
+VL-8 {n=789 c=[8] r=[]}
+	Top Terms:
+		god:0.1116
+		jesus:0.0510
+		people:0.0403
+		israel:0.0352
+		bible:0.0325
+		jews:0.0310
+		christian:0.0310
+		christians:0.0292
+		believe:0.0280
+		faith:0.0262
+
+VL-9 {n=700 c=[9] r=[]}
+	Top Terms:
+		windows:0.1075
+		file:0.0667
+		files:0.0547
+		dos:0.0492
+		program:0.0451
+		ftp:0.0361
+		use:0.0314
+		thanks:0.0282
+		version:0.0259
+		using:0.0243
+
